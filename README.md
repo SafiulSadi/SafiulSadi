@@ -2,7 +2,7 @@
 I'm A. S. M. Safiul Sadi. I'm a web developer.
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiIslam03&hide_border=false&theme=react" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SafiulSadi&theme=blue-green&hide_border=true" width="45%"/>
 </p>
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
