@@ -1,8 +1,12 @@
-### Hi there 👋
-I'm A. S. M. Safiul Sadi. I'm a web developer.
+### Hi there 👋  
+I'm A. S. M. Safiul Sadi. I'm a web developer.  
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SafiulSadi&theme=tokyonight-duo&hide_border=false" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SafiulSadi&color=blue" alt="Profile Views" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SafiulSadi&label=Profile%20views&color=0e75b6&style=flat" alt="SafiulSadi" /> </p>
