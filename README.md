@@ -9,7 +9,6 @@ I'm A. S. M. Safiul Sadi. I'm a web developer.
   <img src="https://komarev.com/ghpvc/?username=SafiulSadi&color=blue" alt="Profile Views" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafiulSadi&label=Profile%20views&color=0e75b6&style=flat" alt="SafiulSadi" /> </p>
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
