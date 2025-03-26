@@ -5,8 +5,7 @@ I'm A. S. M. Safiul Sadi. I'm a web developer.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SafiulSadi&theme=tokyonight-duo&hide_border=false" width="45%"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafiulSadi
-&label=Profile%20views&color=0e75b6&style=flat" alt="mahadi18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SafiulSadi&label=Profile%20views&color=0e75b6&style=flat" alt="mahadi18" /> </p>
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
