@@ -5,7 +5,7 @@ I'm A. S. M. Safiul Sadi. I'm a web developer.
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SafiulSadi&theme=tokyonight-duo&hide_border=false" width="45%"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 <p align="center">
